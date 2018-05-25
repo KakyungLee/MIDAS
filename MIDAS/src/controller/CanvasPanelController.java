@@ -126,6 +126,8 @@ public class CanvasPanelController{
 		canvasPanel.repaint();
 		menuController.setClicked("select");
 		
+		
+		
 	}
 
 }
